@@ -1,18 +1,5 @@
 /* @import './base.css'; */
 
-#app {
-
-}
-
-a,
-.green {
-  text-decoration: none;
-  color: royalblue;
-  transition: 0.4s;
-  padding: 3px;
-}
-
-
 
 
 
@@ -26,11 +13,5 @@ a,
 }
 
 @media (min-width: 1024px) {
-  body {
-   
-  }
-
-  #app {
-
-  }
+  
 }
